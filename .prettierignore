@@ -1,0 +1,15 @@
+# .github
+.github/*
+
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
+
+# node_modules
+**/.git
+**/.svn
+**/.hg
+**/node_modules
